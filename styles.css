@@ -52,3 +52,21 @@ h2{
     font-size: 20px;
 }
 
+h3{
+    font-size: 24px;
+    text-align: center;
+}
+#activity{
+    display: flex;
+}
+#activity img{
+    border-radius: 50%;
+}
+.activities{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 15px;
+}
